@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.remi-quinto</groupId>
   <artifactId>test-android-sdk</artifactId>
-  <version>0.2.15</version>
+  <version>0.2.18</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
