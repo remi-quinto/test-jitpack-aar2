@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.remi-quinto",
     "module": "test-jitpack-aar2",
-    "version": "0.2.19",
+    "version": "0.2.21",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,8 +24,8 @@
       },
       "files": [
         {
-          "name": "test-jitpack-aar2-0.2.19.aar",
-          "url": "test-jitpack-aar2-0.2.19.aar",
+          "name": "test-jitpack-aar2-0.2.21.aar",
+          "url": "test-jitpack-aar2-0.2.21.aar",
           "size": 2450,
           "sha512": "0ae8fba59be64e75fbdc10165e4253e174c22d225c662e13c7aeaa09930f57470d5a8fe77333038d572f843ddef968957adb7c2612cccf39ebed1b808e9f7f7e",
           "sha256": "5ae4ad881f4b663640136f080d5be2ce5d4cfd085cee16880465d0a4400c6d0a",
@@ -60,8 +60,8 @@
       ],
       "files": [
         {
-          "name": "test-jitpack-aar2-0.2.19.aar",
-          "url": "test-jitpack-aar2-0.2.19.aar",
+          "name": "test-jitpack-aar2-0.2.21.aar",
+          "url": "test-jitpack-aar2-0.2.21.aar",
           "size": 2450,
           "sha512": "0ae8fba59be64e75fbdc10165e4253e174c22d225c662e13c7aeaa09930f57470d5a8fe77333038d572f843ddef968957adb7c2612cccf39ebed1b808e9f7f7e",
           "sha256": "5ae4ad881f4b663640136f080d5be2ce5d4cfd085cee16880465d0a4400c6d0a",
