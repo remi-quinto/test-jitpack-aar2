@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.remi-quinto",
     "module": "test-jitpack-aar2",
-    "version": "0.2.23",
+    "version": "0.2.25",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,13 +24,13 @@
       },
       "files": [
         {
-          "name": "test-jitpack-aar2-0.2.23.aar",
-          "url": "test-jitpack-aar2-0.2.23.aar",
+          "name": "test-jitpack-aar2-0.2.25.aar",
+          "url": "test-jitpack-aar2-0.2.25.aar",
           "size": 2450,
-          "sha512": "0ae8fba59be64e75fbdc10165e4253e174c22d225c662e13c7aeaa09930f57470d5a8fe77333038d572f843ddef968957adb7c2612cccf39ebed1b808e9f7f7e",
-          "sha256": "5ae4ad881f4b663640136f080d5be2ce5d4cfd085cee16880465d0a4400c6d0a",
-          "sha1": "3cb421bb92d5a1eb8f50819678c148cfefae2fa4",
-          "md5": "b8e4cff1b12ee67026c66780693390aa"
+          "sha512": "f86cd34e690c99799ddec4aff8f641e33becd855a3dba5bc92ee796c54585cab2655f4592a2c3b98547dacbeb307db1ad8a02329ac3059cc39116442bd1b62f5",
+          "sha256": "2ccde3765b229da137dd9202f40c1d2d3bb3edba76d162f8793e053dc300a651",
+          "sha1": "af04fae171bf1d7dae973995a605fd09620f46ff",
+          "md5": "1b43169497fab35db750fc71d2b3c2a9"
         }
       ]
     },
@@ -60,13 +60,13 @@
       ],
       "files": [
         {
-          "name": "test-jitpack-aar2-0.2.23.aar",
-          "url": "test-jitpack-aar2-0.2.23.aar",
+          "name": "test-jitpack-aar2-0.2.25.aar",
+          "url": "test-jitpack-aar2-0.2.25.aar",
           "size": 2450,
-          "sha512": "0ae8fba59be64e75fbdc10165e4253e174c22d225c662e13c7aeaa09930f57470d5a8fe77333038d572f843ddef968957adb7c2612cccf39ebed1b808e9f7f7e",
-          "sha256": "5ae4ad881f4b663640136f080d5be2ce5d4cfd085cee16880465d0a4400c6d0a",
-          "sha1": "3cb421bb92d5a1eb8f50819678c148cfefae2fa4",
-          "md5": "b8e4cff1b12ee67026c66780693390aa"
+          "sha512": "f86cd34e690c99799ddec4aff8f641e33becd855a3dba5bc92ee796c54585cab2655f4592a2c3b98547dacbeb307db1ad8a02329ac3059cc39116442bd1b62f5",
+          "sha256": "2ccde3765b229da137dd9202f40c1d2d3bb3edba76d162f8793e053dc300a651",
+          "sha1": "af04fae171bf1d7dae973995a605fd09620f46ff",
+          "md5": "1b43169497fab35db750fc71d2b3c2a9"
         }
       ]
     }
