@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=test-android-sdk-0.2.18.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.remi-quinto -DartifactId=test-android-sdk -Dversion=0.2.18 -Dpackaging=aar -DpomFile=test-android-sdk-0.2.18.pom -Djavadoc=test-android-sdk-0.2.18-javadoc.jar
+  - FILE="-Dfile=test-jitpack-aar2-0.2.19.aar"
+  - mvn install:install-file $FILE -DgroupId=com.github.remi-quinto -DartifactId=test-jitpack-aar2 -Dversion=0.2.19 -Dpackaging=aar -DpomFile=test-jitpack-aar2-0.2.19.pom -Djavadoc=test-jitpack-aar2-0.2.19-javadoc.jar
