@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.remi-quinto",
     "module": "test-jitpack-aar2",
-    "version": "0.2.31",
+    "version": "0.2.32",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,13 +24,13 @@
       },
       "files": [
         {
-          "name": "test-jitpack-aar2-0.2.31.aar",
-          "url": "test-jitpack-aar2-0.2.31.aar",
-          "size": 2450,
-          "sha512": "0ae8fba59be64e75fbdc10165e4253e174c22d225c662e13c7aeaa09930f57470d5a8fe77333038d572f843ddef968957adb7c2612cccf39ebed1b808e9f7f7e",
-          "sha256": "5ae4ad881f4b663640136f080d5be2ce5d4cfd085cee16880465d0a4400c6d0a",
-          "sha1": "3cb421bb92d5a1eb8f50819678c148cfefae2fa4",
-          "md5": "b8e4cff1b12ee67026c66780693390aa"
+          "name": "test-jitpack-aar2-0.2.32.aar",
+          "url": "test-jitpack-aar2-0.2.32.aar",
+          "size": 2548,
+          "sha512": "84411cae257e2ae0def61cd7abf52b1957434f207d7bd215c05727c3e0c8afff2c164ea282322e25bd830d2bd621342017ad4250bd96e35187ebef94270b0131",
+          "sha256": "a373b11350914b97cd12ebe29b6aa828474b53b1ad94a83338743c8fa0bba8bf",
+          "sha1": "d27818d384359ff80fdc080b7ee43c0850b6d4be",
+          "md5": "597e11026d9f1c8a0e72d0d3a7678015"
         }
       ]
     },
@@ -60,13 +60,13 @@
       ],
       "files": [
         {
-          "name": "test-jitpack-aar2-0.2.31.aar",
-          "url": "test-jitpack-aar2-0.2.31.aar",
-          "size": 2450,
-          "sha512": "0ae8fba59be64e75fbdc10165e4253e174c22d225c662e13c7aeaa09930f57470d5a8fe77333038d572f843ddef968957adb7c2612cccf39ebed1b808e9f7f7e",
-          "sha256": "5ae4ad881f4b663640136f080d5be2ce5d4cfd085cee16880465d0a4400c6d0a",
-          "sha1": "3cb421bb92d5a1eb8f50819678c148cfefae2fa4",
-          "md5": "b8e4cff1b12ee67026c66780693390aa"
+          "name": "test-jitpack-aar2-0.2.32.aar",
+          "url": "test-jitpack-aar2-0.2.32.aar",
+          "size": 2548,
+          "sha512": "84411cae257e2ae0def61cd7abf52b1957434f207d7bd215c05727c3e0c8afff2c164ea282322e25bd830d2bd621342017ad4250bd96e35187ebef94270b0131",
+          "sha256": "a373b11350914b97cd12ebe29b6aa828474b53b1ad94a83338743c8fa0bba8bf",
+          "sha1": "d27818d384359ff80fdc080b7ee43c0850b6d4be",
+          "md5": "597e11026d9f1c8a0e72d0d3a7678015"
         }
       ]
     }
