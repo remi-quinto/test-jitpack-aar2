@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.remi-quinto</groupId>
   <artifactId>test-jitpack-aar2</artifactId>
-  <version>0.2.32</version>
+  <version>0.2.33</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -22,6 +22,12 @@
       <groupId>com.google.android.material</groupId>
       <artifactId>material</artifactId>
       <version>1.5.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.core</groupId>
+      <artifactId>core-ktx</artifactId>
+      <version>+</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
